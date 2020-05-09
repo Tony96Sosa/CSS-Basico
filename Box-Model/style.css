@@ -1,0 +1,29 @@
+h1{
+	background-color: lightblue;
+	width: 100px;
+	height: 150px;
+}
+h2{
+	background-color: lightgrey;
+	width: 50px;
+	height: 100px;
+}
+a{ /*by it's a inline-element it can't modificar width and height*/
+	background-color: lightgreen;
+	width: 100px;
+	height: 100px;
+}
+.box-1{
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+	border: 5px solid red;
+	margin: 20px;
+	outline: 10px solid blue;
+}
+.box-2{
+	background-color: lightcoral;
+	width: 100px;
+	height: 100px;
+}
