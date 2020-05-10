@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	margin-top: 100px;
+}
+.menu{
+	background-color: lightgreen;
+	font-size: 3.5em;
+	text-align: center;
+	height: 80px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+.title{
+	margin: 0;
+	padding-left: 10px;
+}
+.text-main{
+	font-weight: bold;
+}
