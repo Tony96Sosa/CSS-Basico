@@ -1,0 +1,31 @@
+.title::first-letter{
+	color: red;
+	font-size: 40px;
+}
+.text::first-line{
+	color: green;
+	font-size: 25px;
+}
+.text::selection{
+	background-color: grey;
+	color: black;
+}
+.item{
+	font-weight: bold;
+}
+.dolar{
+	font-size: 20px;
+	font-weight: bold;
+}
+.dolar::before{
+	content: '$';
+	display: inline-block;
+	background-color: lightcoral;
+	padding: 5px;
+}
+.dolar::after{
+	content: '.00';
+	display: inline-block;
+	background-color: lightcoral;
+	padding: 5px;
+}

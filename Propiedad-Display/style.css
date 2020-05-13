@@ -1,0 +1,17 @@
+.title{
+	text-align: center;
+}
+.text{
+	font-size: 20px;
+	text-align: justify;
+	margin: 10px;
+}
+.inline{
+	background-color: lightgreen;
+	display: inline-block;
+	height: 50px;
+}
+.block{
+	background-color: lightcoral;
+	display: inline;
+}
